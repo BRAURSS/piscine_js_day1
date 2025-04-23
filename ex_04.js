@@ -1,0 +1,7 @@
+displayThisText(typeof(undefined_var))
+displayThisText(typeof(true))
+displayThisText(typeof(42))
+displayThisText(typeof(1234567890123456789012345678901234567890n))
+displayThisText(typeof(Symbol('foo')))
+displayThisText(typeof({}))
+displayThisText(typeof(displayThisText))
